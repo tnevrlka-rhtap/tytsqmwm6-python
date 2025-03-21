@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tytsqmwm6-python-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/tytsqmwm6-python
